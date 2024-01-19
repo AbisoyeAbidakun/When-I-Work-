@@ -32,3 +32,9 @@ pip install -r requirements.txt
    python3 pipeline.py --url "your_endpoint"   --column "your_column"  --index "your_index_column" --value "your_value_column" --destination_file_name "output_file"  --destination_file_path  "destinationof_the_file"
 
 ```
+
+### URL Endpoint
+
+```bash
+ --url "https://public.wiwdata.com/engineering-challenge/data/"  
+```
