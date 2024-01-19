@@ -28,9 +28,6 @@ class DataProcessor:
     Returns:
     - output: A saved csv file with the process data according to the requirement
 
-    Command line sample use of the above class:
-    python script_name.py --url "your_endpoint" --column "your_column" --index "your_index" --value "your_value" --destintation_file_name "output_file"
-
    """
 
 
